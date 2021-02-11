@@ -2,6 +2,7 @@ title: Jonas side
 author: Jonas
 email: your-email@domain.com
 description: Hello 
+Theme: minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
@@ -9,4 +10,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-Theme: minima
+
